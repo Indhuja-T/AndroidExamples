@@ -1,4 +1,8 @@
-# Built application files
+#The following files are not required 
+import-summary.txt
+projectFilesBackup/
+
+#Built application files
 *.apk
 *.aar
 *.ap_
